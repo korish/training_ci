@@ -4,8 +4,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    cout << "Hello World!" << endl;
-    cout << "Hello World AAA!" << endl;
-    cout << "Pls build it!" << endl;
+    out << "Hello World!" << endl;
+
     return 0;
 }
